@@ -1,2 +1,1 @@
-FROM gcr.io/istio-release/app:master-latest-daily
-
+FROM gcr.io/istio-release/app:release-1.1-latest-daily
